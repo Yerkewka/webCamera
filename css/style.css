@@ -1,0 +1,16 @@
+#video {
+  width: 400px;
+  height: 400px;
+}
+#strip {
+  height: auto;
+  width: 100%;
+  border: 1px solid #777;
+  padding: 10px;
+}
+#strip a img {
+  width: auto;
+  max-width: 200px;
+  height: auto;
+  padding: 10px;
+}
